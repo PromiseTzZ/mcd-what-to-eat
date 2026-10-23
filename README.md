@@ -101,7 +101,7 @@ Token 等同密码，不要提交到公开仓库或发到群里。服务免费�
 **用户**：明天午餐吃什么
 **助手**：你在哪个位置？（给出门店后开始拉菜单）
 
-**用户**：武汉中关村科技大厦
+**用户**：中关村科技大厦
 
 **助手**（2026-10-24 周六 12:00 到店自取，价格由 `calculate-price` 实算）：
 
@@ -134,7 +134,7 @@ Token 等同密码，不要提交到公开仓库或发到群里。服务免费�
 ```
 mcd-what-to-eat-kit/
 ├── README.md                  # 本文件
-├── CONTEST_DECLARATION.md     # 参赛声明（官方模板，原样保留）
+├── CONTEST_DECLARATION.md     # 参赛声明
 ├── MCP_INTEGRATION.md         # MCP Server / Tool / 调用流程 / 业务价值
 ├── mcp-config.example.json    # 脱敏配置示例（仅环境变量占位符）
 ├── skill/mcd-what-to-eat/
