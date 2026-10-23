@@ -1,0 +1,10 @@
+- insert:
+    - id: mcd-mcp
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: mcd
+        transport: streamable-http
+        url: https://mcp.mcd.cn
+        headers:
+          Authorization: 'Bearer YOUR_MCP_TOKEN'
+        failOnStartupError: true
